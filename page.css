@@ -20,6 +20,10 @@ body {
     background-color: rgba(240, 240, 240, .5);
 }
 
+.sub {
+    cursor: pointer;
+}
+
 .input1 {
     border-radius: 4px;
     width: 300px;
@@ -64,6 +68,7 @@ body {
     visibility: visible;
     font-size: 20px;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .edit-text {
